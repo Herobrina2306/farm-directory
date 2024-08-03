@@ -1,6 +1,6 @@
 import tkinter as tk
-import Progekt as pr
-from rabota_s_failom import dobavlenie
+from program import Progekt as pr
+from program.rabota_s_failom import dobavlenie
 
 def dan():
     sim = simptom.get()
